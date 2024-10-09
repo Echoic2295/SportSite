@@ -1,0 +1,32 @@
+* {
+    font-family: 'Montserrat';
+}
+
+img {
+    height: 250px;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+
+}
+
+a {
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}

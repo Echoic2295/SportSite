@@ -1,0 +1,36 @@
+* {
+    font-family: 'Montserrat';
+}
+
+img {
+    height: 250px;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+
+}
+
+a {
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+table, td {
+    border: 1px solid black;
+}
+
+table {
+    background-color:darkcyan;
+}
+
+td {
+    background-color: rgb(124, 219, 160);
+}
